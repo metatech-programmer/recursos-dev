@@ -1,5 +1,5 @@
 import React from "react";
-import links from "./Links/links.json";
+import links from "./components/Links/links.json";
 import LinkMidu from "./components/links-midu/LinksMidu";
 
 import "./App.css";
