@@ -9,7 +9,7 @@ const LinkMidu = () => {
 			try {
 				const response = await axios.get(
 					"https://midu-links.vercel.app/api/links",
-				); // Reemplaza con la URL de tu API
+				); 
 				setJsonData(response.data);
 				console.log(response);
 			} catch (error) {
