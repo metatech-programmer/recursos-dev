@@ -24,7 +24,7 @@ const LinkOwn = ({ jsonData }) => {
 						).pathname.replace(
 							"/",
 							"",
-						)}&background=0D8ABC&color=fff&size=128`})`,
+						)}&background=random&color=fff&size=128`})`,
 						backgroundSize: "cover",
 						backgroundPosition: "left",
 					}}

@@ -31,9 +31,7 @@ const LinkMidu = () => {
 					target="_blank"
 					rel="noopener noreferrer"
 					style={{
-						backgroundImage: `url(${`https://ui-avatars.com/api/?name=${new URL(
-							enlace.link,
-						).pathname.replace("/", "")}&format=svg&background=random&color=0D8ABC&size=128`})`,
+						backgroundImage: `url(${enlace.thumbnail})`,
 						backgroundSize: "cover",
 						backgroundPosition: "center",
 					}}
