@@ -1,0 +1,35 @@
+#back-top {
+  margin-top: 110vh;
+  position: sticky;
+  bottom: 32px;
+  left: 32px;
+}
+
+html {
+  scroll-behavior: smooth;
+  @apply bg-gradient-to-t from-zinc-950 to-100% to-zinc-800;
+}
+
+#back-top {
+  padding: 10px;
+  background: white;
+  border-radius: 1000px;
+  box-shadow: 0 0 10px #00000035;
+  background: #09f;
+  color: #fff;
+  text-decoration: none;
+}
+
+::-webkit-scrollbar {
+  width: 0.5rem;
+  height: 0;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #0b0b0d;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(65, 65, 65);
+  border-radius: 0.25rem;
+}
