@@ -12,20 +12,25 @@ const LinkOwn = ({ jsonData }) => {
 		<>
 			{enlacesOrdenados.map((enlace, index) => (
 				<a
-					className="h-72 border break-words text-balance overflow-hidden hover:bg-sky-900 hover:shadow-sky-400 shadow-md hover:scale-105 z-0 hover:z-10 transition-all rounded-lg active:scale-110 active:shadow-sky-600 w-full md:w-auto"
+					className="h-72 border break-words text-balance overflow-hidden hover:bg-sky-900 hover:shadow-sky-400 shadow-md hover:scale-105 z-0 hover:z-10 transition-all rounded-lg active:scale-110 active:shadow-sky-600 w-full md:w-1/3 lg:w-1/4"
 					// biome-ignore lint/suspicious/noArrayIndexKey: <explanation>
 					key={index}
 					href={enlace.link}
 					target="_blank"
 					rel="noopener noreferrer"
 					style={{
-						backgroundImage: `url(${`https://ui-avatars.com/api/?name=${new URL(enlace.link).pathname.replace("/", "")}&background=0D8ABC&color=fff&size=128`})`,
+						backgroundImage: `url(${`https://ui-avatars.com/api/?name=${new URL(
+							enlace.link,
+						).pathname.replace(
+							"/",
+							"",
+						)}&background=0D8ABC&color=fff&size=128`})`,
 						backgroundSize: "cover",
 						backgroundPosition: "left",
 					}}
 				>
 					<span>
-						<span className="text-3xl font-semibold md:hover:bg-black bg-black md:bg-transparent opacity-40 md:opacity-5 md:hover:opacity-40 w-full h-full flex items-center justify-center p-5 ">
+						<span className="text-3xl font-semibold  bg-zinc-950  md:hover:opacity-90  opacity-5  w-full h-full flex place-items-end hover:items-center justify-center p-5 active:text-4xl transition-all ">
 							{new URL(enlace.link).hostname}
 						</span>
 					</span>
