@@ -1,12 +1,12 @@
-import React, { useState, useEffect } from "react";
-import barcelona from "../../assets/thumbnails/candidatura.42barcelona.webp";
+import React, { useState, useEffect, useContext } from "react";
+
 const LinkMidu = ({ jsonData }) => {
-	const medidas = [30, 40, 50, 60];
+	const medidas = ["30", "40", "50", "60"];
 	return (
 		<>
 			{jsonData.links.map((enlace, index) => (
 				<a
-					className={`relative w-[${
+					className={`w-[${
 						medidas[Math.floor(Math.random() * 4)]
 					}%] h-72 border break-words text-balance overflow-hidden  hover:bg-sky-900 hover:shadow-sky-400 shadow-md hover:scale-105 z-0 hover:z-10 transition-all rounded-lg active:scale-110 active:shadow-sky-600`}
 					// biome-ignore lint/suspicious/noArrayIndexKey: <explanation>
@@ -15,9 +15,8 @@ const LinkMidu = ({ jsonData }) => {
 					target="_blank"
 					rel="noopener noreferrer"
 					style={{
-						backgroundImage: `url(
-						src/assets/thumbnails/${jsonData.thumbnails[index]})`,
-						backgroundSize: "cover",
+						backgroundImage: `url(${(`/thumbnails/${jsonData.thumbnails[index]}`)})`,
+						backgroundSize: "cover", 
 						backgroundPosition: "left",
 					}}
 				>
