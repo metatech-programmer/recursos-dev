@@ -24,7 +24,7 @@ function App() {
 				</div>
 
 				<a
-					className="p-4 w-80 h-80 text-3xl font-extrabold bg-white rounded-full drop-shadow-2xl shadow-black hover:bg-sky-600 transition-all active:ring-4 hover:scale-125 hover:text-white ring-offset-white sticky bottom-8 left-[90%] z-50  mt-[110vh] "
+					className="p-4 w-80 h-80 text-3xl font-extrabold bg-white rounded-full drop-shadow-2xl shadow-black hover:bg-sky-600 transition-all active:ring-4 hover:scale-125 hover:text-white ring-offset-white sticky bottom-8 md:left-[90%] left-[85%] z-50  mt-[110vh] "
 					id="back-top"
 					href="#top"
 				>
