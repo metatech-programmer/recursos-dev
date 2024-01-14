@@ -7,7 +7,7 @@ import "./App.css";
 function App() {
 	return (
 		<>
-				<div id="top" />
+			<div id="top" />
 			<main className="w-screen h-auto bg-gradient-to-b from-zinc-950 to-100% to-zinc-800 pt-10">
 				<h1 className="font-bold text-zinc-300 text-3xl md:text-5xl text-center ">
 					&#128526; &middot; Recursos Dev &middot; &#128526;
@@ -17,8 +17,12 @@ function App() {
 					<LinkMidu jsonData={links} />
 				</div>
 
-				<a id="back-top" href="#top">
-					UP
+				<a
+					className="p-3 w-32 h-32 text-3xl font-extrabold bg-white rounded-full drop-shadow-2xl shadow-black hover:bg-sky-600 transition-all active:ring-4 hover:scale-125 hover:text-white ring-offset-white sticky bottom-8 left-8 mt-[110vh] text"
+					id="back-top"
+					href="#top"
+				>
+					&#8593;
 				</a>
 			</main>
 		</>
