@@ -1,117 +1,249 @@
-
 {
-  "links": [
-    "https://candidatura.42barcelona.com/users/sign_up?utm_source=midudev&utm_medium=yt&utm_id=influencers42",
-    "https://www.42barcelona.com/es?utm_source=midudev&utm_medium=ig&utm_id=influencers42",
-    "https://github.com/trekhleb/javascript-algorithms/blob/master/readme.es-es.md",
-    "https://www.youtube.com/watch?v=f7unupshmpa",
-    "https://learn.microsoft.com/es-es/training/student-hub/",
-    "https://arc.dev/?utm_source=influencer&utm_medium=livestream&utm_campaign=paid2022&utm_term=202206&utm_content=midudev",
-    "https://www.youtube.com/watch?v=rb5tr_nquew",
-    "https://www.izertis.com/es/talento",
-    "https://www.bbc.co.uk/learningenglish/",
-    "https://www.youtube.com/watch?v=wtpukohgfje&list=plv8x_i1fqbw0kn_fbizta3ws_vzaqddx7",
-    "https://cabify.careers/es/",
-    "https://www.redbubble.com/es/i/camiseta/midufest-de-midu-dev/142737019.ij6l0.xyz",
-    "https://leanmind.es/es/blog/codigo-sostenible-en-miduconf-2022/",
-    "https://learn.microsoft.com/es-es/training/challenges?id=150aae80-e46b-4a07-894a-5247fcdfcbad&wt.mc_id=cloudskillschallenge_150aae80-e46b-4a07-894a-5247fcdfcbad",
-    "https://codely.com/pro/midudev",
-    "https://events.hubilo.com/workshop-fest-spain/register?utm_source=community&utm_campaign=wksh_esp_codemotion_2023_autumn&utm_medium=referral&utm_content=midudev",
-    "https://streamyard.com/",
-    "https://www.edx.org/es/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python",
-    "https://www.youtube.com/playlist?list=pluofhdig_38q7l8gv4ivcz_pjueyd99_j",
-    "https://github.com/midudev/aprendiendo-react",
-    "https://midu.link/demo-back-to-top",
-    "https://www.dondominio.com/es/?utm_source=twitch.com&utm_medium=referral&utm_campaign=dd-es-midudevadventjs&_x-c=649&utm_content=link-evento",
-    "https://elsaspeak.com/inf/midudev/",
-    "https://elsaspeak.com/es/?shortlink=a7lemmx4&c=aff_midudev&pid=aff_midudev",
-    "https://www.cambridgeenglish.org/learning-english/activities-for-learners/",
-    "https://www.engvid.com/",
-    "https://exercism.org/",
-    "https://vdo.ninja/?director=midudevlivestream&password=falcon&showdirector",
-    "https://founderz.com/es/eventos/master-inteligencia-artificial?utm_source=colab&utm_medium=twitch&utm_campaign=midudev_24102023se%20abre%20en%20una%20nueva%20pesta%ef%bf%bda",
-    "https://leanpub.com/aprendiendo-git",
-    "https://www.youtube.com/watch?v=krv46iz844s&list=plv8x_i1fqbw3wha7hole0mmacrjfviwwc",
-    "https://gridstudio.cc/products/grid%c2%ae4s?utm_source=midudev&utm_medium=midudev&utm_campaign=midudev",
-    "https://www.youtube.com/watch?v=3nyltiy5sku",
-    "https://www.curso-ingles.com/",
-    "https://github.com/asabeneh/30-days-of-javascript/tree/master/spanish",
-    "https://keepcoding.io/nuestros-bootcamps/?utm_source=organic&utm_medium=rrss&utm_campaign=bootcamps-especializados&utm_term=midudev",
-    "https://lemoncode.net/master-frontend#inicio-banner",
-    "https://opportunity.linkedin.com/es-es/skills-for-in-demand-jobs",
-    "https://losapuntesdemajo.vercel.app/",
-    "https://www.malt.es/signup?utm_source=event&utm_medium=influencers&utm_campaign=es_freelancer_all_community_midudev-sponsor&utm_content=create-profile-page",
-    "https://www.getmanfred.com/developer-career-report?utm_source=twitch&utm_medium=social&utm_campaign=tech-career-report",
-    "https://www.melgeek.com/?ref=midudev",
-    "https://www.youtube.com/watch?v=2jxc8dmzt0i&list=plv8x_i1fqbw1vr86y4c72xmgj8ifjbwj6",
-    "https://www.youtube.com/playlist?list=pluofhdig_38q4d0xnwp7fehotczhjwj29",
-    "https://fullstackopen.com/es/",
-    "https://www.frontendpractice.com/",
-    "https://github.com/lydiahallie/javascript-questions/blob/master/es-es/readme-es.md",
-    "https://github.com/public-apis/public-apis",
-    "https://marketplace.visualstudio.com/items?itemname=rapidapi.vscode-rapidapi-client&utm_source=midudev&utm_medium=devrel&utm_campaign=devrel",
-    "https://www.youtube.com/playlist?list=pluofhdig_38qg8lankitqy-0syw7ctdui",
-    "https://midu.dev/roadmap2024.png",
-    "https://learn.microsoft.com/es-es/training/paths/rust-first-steps/",
-    "https://www.joshwcomeau.com/shadow-palette/",
-    "https://www.flexispot.es/silla-ergonomica-maxima-comodidad-bs11pro.html?utm_source=youtube/ins/twitter&amp;utm_medium=kol&amp;utm_campaign=midu.dev+aug",
-    "https://softtek.csod.com/ux/ats/careersite/2/home?c=softtek&country=es&lang=es-mx",
-    "https://savvily.company.site/",
-    "https://www.youtube.com/playlist?list=pluofhdig_38pncze9ptj72exbfjzyepxt",
-    "https://www.youtube.com/watch?v=xsxm8_bi63s&list=plv8x_i1fqbw2qscggh0pw2atsjg_whqun",
-    "https://talently.tech/match",
-    "https://www.redbubble.com/es/i/taza/midufest-de-midu-dev/142737019.9q0ad",
-    "https://www.keychron.com/?utm_source=twitch&utm_medium=twitch&utm_campaign=midudev",
-    "https://www.warp.dev/?utm_campaign=warp_ai_launch&utm_source=twitch_midudev",
-    "https://midu.link/threads-css",
-    "https://www.youtube.com/playlist?list=pluofhdig_38pncze9ptj72exbfjzyepxt",
-    "https://www.youtube.com/playlist?list=pl1y1iaetjsyiisgvll1chsxn_kvjoohu-",
-    "https://www.patterns.dev/",
-    "https://devchallenges.io/",
-    "https://www.freecodecamp.org/learn/a2-english-for-developers/",
-    "https://sqlbolt.com/",
-    "https://resend.com/",
-    "https://resend.com/overview",
-    "https://publicapis.dev/",
-    "https://makereal.tldraw.com/",
-    "https://render.com/",
-    "https://fly.io/",
-    "https://www.koyeb.com/",
-    "https://www.fl0.com/",
-    "https://collectui.com/",
-    "https://github.com/abi/screenshot-to-code",
-    "https://m3.material.io/",
-    "https://algorithm-visualizer.org/backtracking/hamiltonean-cycles",
-    "https://es.khanacademy.org/computing/computer-science/algorithms",
-    "https://remoteok.com/",
-    "https://www.getonbrd.com.co/",
-    "https://www.jsondataai.com/",
-    "https://codesignal.com/",
-    "https://www.codewars.com/",
-    "https://adventjs.dev/",
-    "https://www.aprendejavascript.dev/",
-    "https://cognitiveclass.ai/",
-    "https://refactoring.guru/es",
-    "https://leetcode.com/",
-    "https://www.hackerrank.com/",
-    "https://edabit.com/",
-    "https://xsgames.co/animatiss/",
-    "https://ai2ui.co/",
-    "https://www.efset.org/es/",
-    "https://css-loaders.com/classic/",
-    "https://cssloaders.github.io/",
-    "https://bennettfeely.com/clippy/",
-    "https://www.designgradients.com/",
-    "https://github.com/mrcodedev/frontend-developer-resources",
-    "https://transform.tools/",
-    "https://devdocs.io/",
-    "https://apimocha.com/",
-    "https://skillshop.exceedlms.com/student/collection/799479-web-development-i",
-    "https://www.coursera.org/learn/a-programar"
-  ]
-  ,
-  "thumbnails" : [
-    "candidatura.42barcelona.webp",
-    "candidatura.42barcelona.webp"
-  ]
+	"links": [
+		{
+			"link": "https://candidatura.42barcelona.com/users/sign_up?utm_source=midudev&utm_medium=yt&utm_id=influencers42",
+			"thumbnail": "candidatura.42barcelona"
+		},
+		{
+			"link": "https://www.42barcelona.com/es?utm_source=midudev&utm_medium=ig&utm_id=influencers42",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://github.com/trekhleb/javascript-algorithms/blob/master/readme.es-es.md",
+			"thumbnail": ""
+		},
+		{ "link": "https://www.youtube.com/watch?v=f7unupshmpa", "thumbnail": "" },
+		{
+			"link": "https://learn.microsoft.com/es-es/training/student-hub/",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://arc.dev/?utm_source=influencer&utm_medium=livestream&utm_campaign=paid2022&utm_term=202206&utm_content=midudev",
+			"thumbnail": ""
+		},
+		{ "link": "https://www.youtube.com/watch?v=rb5tr_nquew", "thumbnail": "" },
+		{ "link": "https://www.izertis.com/es/talento", "thumbnail": "" },
+		{ "link": "https://www.bbc.co.uk/learningenglish/", "thumbnail": "" },
+		{
+			"link": "https://www.youtube.com/watch?v=wtpukohgfje&list=plv8x_i1fqbw0kn_fbizta3ws_vzaqddx7",
+			"thumbnail": ""
+		},
+		{ "link": "https://cabify.careers/es/", "thumbnail": "" },
+		{
+			"link": "https://www.redbubble.com/es/i/camiseta/midufest-de-midu-dev/142737019.ij6l0.xyz",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://leanmind.es/es/blog/codigo-sostenible-en-miduconf-2022/",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://learn.microsoft.com/es-es/training/challenges?id=150aae80-e46b-4a07-894a-5247fcdfcbad&wt.mc_id=cloudskillschallenge_150aae80-e46b-4a07-894a-5247fcdfcbad",
+			"thumbnail": ""
+		},
+		{ "link": "https://codely.com/pro/midudev", "thumbnail": "" },
+		{
+			"link": "https://events.hubilo.com/workshop-fest-spain/register?utm_source=community&utm_campaign=wksh_esp_codemotion_2023_autumn&utm_medium=referral&utm_content=midudev",
+			"thumbnail": ""
+		},
+		{ "link": "https://streamyard.com/", "thumbnail": "" },
+		{
+			"link": "https://www.edx.org/es/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://www.youtube.com/playlist?list=pluofhdig_38q7l8gv4ivcz_pjueyd99_j",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://github.com/midudev/aprendiendo-react",
+			"thumbnail": ""
+		},
+		{ "link": "https://midu.link/demo-back-to-top", "thumbnail": "" },
+		{
+			"link": "https://www.dondominio.com/es/?utm_source=twitch.com&utm_medium=referral&utm_campaign=dd-es-midudevadventjs&_x-c=649&utm_content=link-evento",
+			"thumbnail": ""
+		},
+		{ "link": "https://elsaspeak.com/inf/midudev/", "thumbnail": "" },
+		{
+			"link": "https://elsaspeak.com/es/?shortlink=a7lemmx4&c=aff_midudev&pid=aff_midudev",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://www.cambridgeenglish.org/learning-english/activities-for-learners/",
+			"thumbnail": ""
+		},
+		{ "link": "https://www.engvid.com/", "thumbnail": "" },
+		{ "link": "https://exercism.org/", "thumbnail": "" },
+		{
+			"link": "https://vdo.ninja/?director=midudevlivestream&password=falcon&showdirector",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://founderz.com/es/eventos/master-inteligencia-artificial?utm_source=colab&utm_medium=twitch&utm_campaign=midudev_24102023se%20abre%20en%20una%20nueva%20pesta%ef%bf%bda",
+			"thumbnail": ""
+		},
+		{ "link": "https://leanpub.com/aprendiendo-git", "thumbnail": "" },
+		{
+			"link": "https://www.youtube.com/watch?v=krv46iz844s&list=plv8x_i1fqbw3wha7hole0mmacrjfviwwc",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://gridstudio.cc/products/grid%c2%ae4s?utm_source=midudev&utm_medium=midudev&utm_campaign=midudev",
+			"thumbnail": ""
+		},
+		{ "link": "https://www.youtube.com/watch?v=3nyltiy5sku", "thumbnail": "" },
+		{ "link": "https://www.curso-ingles.com/", "thumbnail": "" },
+		{
+			"link": "https://github.com/asabeneh/30-days-of-javascript/tree/master/spanish",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://keepcoding.io/nuestros-bootcamps/?utm_source=organic&utm_medium=rrss&utm_campaign=bootcamps-especializados&utm_term=midudev",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://lemoncode.net/master-frontend#inicio-banner",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://opportunity.linkedin.com/es-es/skills-for-in-demand-jobs",
+			"thumbnail": ""
+		},
+		{ "link": "https://losapuntesdemajo.vercel.app/", "thumbnail": "" },
+		{
+			"link": "https://www.malt.es/signup?utm_source=event&utm_medium=influencers&utm_campaign=es_freelancer_all_community_midudev-sponsor&utm_content=create-profile-page",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://www.getmanfred.com/developer-career-report?utm_source=twitch&utm_medium=social&utm_campaign=tech-career-report",
+			"thumbnail": ""
+		},
+		{ "link": "https://www.melgeek.com/?ref=midudev", "thumbnail": "" },
+		{
+			"link": "https://www.youtube.com/watch?v=2jxc8dmzt0i&list=plv8x_i1fqbw1vr86y4c72xmgj8ifjbwj6",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://www.youtube.com/playlist?list=pluofhdig_38q4d0xnwp7fehotczhjwj29",
+			"thumbnail": ""
+		},
+		{ "link": "https://fullstackopen.com/es/", "thumbnail": "" },
+		{ "link": "https://www.frontendpractice.com/", "thumbnail": "" },
+		{
+			"link": "https://github.com/lydiahallie/javascript-questions/blob/master/es-es/readme-es.md",
+			"thumbnail": ""
+		},
+		{ "link": "https://github.com/public-apis/public-apis", "thumbnail": "" },
+		{
+			"link": "https://marketplace.visualstudio.com/items?itemname=rapidapi.vscode-rapidapi-client&utm_source=midudev&utm_medium=devrel&utm_campaign=devrel",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://www.youtube.com/playlist?list=pluofhdig_38qg8lankitqy-0syw7ctdui",
+			"thumbnail": ""
+		},
+		{ "link": "https://midu.dev/roadmap2024.png", "thumbnail": "" },
+		{
+			"link": "https://learn.microsoft.com/es-es/training/paths/rust-first-steps/",
+			"thumbnail": ""
+		},
+		{ "link": "https://www.joshwcomeau.com/shadow-palette/", "thumbnail": "" },
+		{
+			"link": "https://www.flexispot.es/silla-ergonomica-maxima-comodidad-bs11pro.html?utm_source=youtube/ins/twitter&amp;utm_medium=kol&amp;utm_campaign=midu.dev+aug",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://softtek.csod.com/ux/ats/careersite/2/home?c=softtek&country=es&lang=es-mx",
+			"thumbnail": ""
+		},
+		{ "link": "https://savvily.company.site/", "thumbnail": "" },
+		{
+			"link": "https://www.youtube.com/playlist?list=pluofhdig_38pncze9ptj72exbfjzyepxt",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://www.youtube.com/watch?v=xsxm8_bi63s&list=plv8x_i1fqbw2qscggh0pw2atsjg_whqun",
+			"thumbnail": ""
+		},
+		{ "link": "https://talently.tech/match", "thumbnail": "" },
+		{
+			"link": "https://www.redbubble.com/es/i/taza/midufest-de-midu-dev/142737019.9q0ad",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://www.keychron.com/?utm_source=twitch&utm_medium=twitch&utm_campaign=midudev",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://www.warp.dev/?utm_campaign=warp_ai_launch&utm_source=twitch_midudev",
+			"thumbnail": ""
+		},
+		{ "link": "https://midu.link/threads-css", "thumbnail": "" },
+		{
+			"link": "https://www.youtube.com/playlist?list=pluofhdig_38pncze9ptj72exbfjzyepxt",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://www.youtube.com/playlist?list=pl1y1iaetjsyiisgvll1chsxn_kvjoohu-",
+			"thumbnail": ""
+		},
+		{ "link": "https://www.patterns.dev/", "thumbnail": "" },
+		{ "link": "https://devchallenges.io/", "thumbnail": "" },
+		{
+			"link": "https://www.freecodecamp.org/learn/a2-english-for-developers/",
+			"thumbnail": ""
+		},
+		{ "link": "https://sqlbolt.com/", "thumbnail": "" },
+		{ "link": "https://resend.com/", "thumbnail": "" },
+		{ "link": "https://resend.com/overview", "thumbnail": "" },
+		{ "link": "https://publicapis.dev/", "thumbnail": "" },
+		{ "link": "https://makereal.tldraw.com/", "thumbnail": "" },
+		{ "link": "https://render.com/", "thumbnail": "" },
+		{ "link": "https://fly.io/", "thumbnail": "" },
+		{ "link": "https://www.koyeb.com/", "thumbnail": "" },
+		{ "link": "https://www.fl0.com/", "thumbnail": "" },
+		{ "link": "https://collectui.com/", "thumbnail": "" },
+		{ "link": "https://github.com/abi/screenshot-to-code", "thumbnail": "" },
+		{ "link": "https://m3.material.io/", "thumbnail": "" },
+		{
+			"link": "https://algorithm-visualizer.org/backtracking/hamiltonean-cycles",
+			"thumbnail": ""
+		},
+		{
+			"link": "https://es.khanacademy.org/computing/computer-science/algorithms",
+			"thumbnail": ""
+		},
+		{ "link": "https://remoteok.com/", "thumbnail": "" },
+		{ "link": "https://www.getonbrd.com.co/", "thumbnail": "" },
+		{ "link": "https://www.jsondataai.com/", "thumbnail": "" },
+		{ "link": "https://codesignal.com/", "thumbnail": "" },
+		{ "link": "https://www.codewars.com/", "thumbnail": "" },
+		{ "link": "https://adventjs.dev/", "thumbnail": "" },
+		{ "link": "https://www.aprendejavascript.dev/", "thumbnail": "" },
+		{ "link": "https://cognitiveclass.ai/", "thumbnail": "" },
+		{ "link": "https://refactoring.guru/es", "thumbnail": "" },
+		{ "link": "https://leetcode.com/", "thumbnail": "" },
+		{ "link": "https://www.hackerrank.com/", "thumbnail": "" },
+		{ "link": "https://edabit.com/", "thumbnail": "" },
+		{ "link": "https://xsgames.co/animatiss/", "thumbnail": "" },
+		{ "link": "https://ai2ui.co/", "thumbnail": "" },
+		{ "link": "https://www.efset.org/es/", "thumbnail": "" },
+		{ "link": "https://css-loaders.com/classic/", "thumbnail": "" },
+		{ "link": "https://cssloaders.github.io/", "thumbnail": "" },
+		{ "link": "https://bennettfeely.com/clippy/", "thumbnail": "" },
+		{ "link": "https://www.designgradients.com/", "thumbnail": "" },
+		{
+			"link": "https://github.com/mrcodedev/frontend-developer-resources",
+			"thumbnail": ""
+		},
+		{ "link": "https://transform.tools/", "thumbnail": "" },
+		{ "link": "https://devdocs.io/", "thumbnail": "" },
+		{ "link": "https://apimocha.com/", "thumbnail": "" },
+		{
+			"link": "https://skillshop.exceedlms.com/student/collection/799479-web-development-i",
+			"thumbnail": ""
+		},
+		{ "link": "https://www.coursera.org/learn/a-programar" }
+	]
 }
