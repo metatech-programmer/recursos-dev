@@ -1,6 +1,7 @@
 import React from "react";
 import links from "./components/Links/links.json";
 import LinkMidu from "./components/links-midu/LinksMidu";
+import LinkOwn from "./components/links-own/LinksOwn";
 
 import "./App.css";
 
@@ -14,7 +15,8 @@ function App() {
 				</h1>
 				<hr className="w-11/12 mx-auto mt-10 border-zinc-900" />
 				<div className="  p-8 sm:p-12 md:p-32 text-slate-100 flex flex-wrap justify-center items-center gap-3 overflow-y-scroll w-full h-full">
-					<LinkMidu jsonData={links} />
+					<LinkMidu/>
+					<LinkOwn jsonData={links} />
 				</div>
 
 				<a
