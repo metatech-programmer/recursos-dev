@@ -6,42 +6,42 @@
 		},
 		{
 			"link": "https://www.42barcelona.com/es?utm_source=midudev&utm_medium=ig&utm_id=influencers42",
-			"thumbnail": ""
+			"thumbnail": "42barcelona"
 		},
 		{
-			"link": "https://github.com/trekhleb/javascript-algorithms/blob/master/readme.es-es.md",
-			"thumbnail": ""
+			"link": "https://github.com/trekhleb/javascript-algorithms/tree/master",
+			"thumbnail": "javascript-algorithms"
 		},
-		{ "link": "https://www.youtube.com/watch?v=f7unupshmpa", "thumbnail": "" },
+		{ "link": "https://www.youtube.com/watch?v=f7unupshmpa", "thumbnail": "f7unupshmpa" },
 		{
 			"link": "https://learn.microsoft.com/es-es/training/student-hub/",
-			"thumbnail": ""
+			"thumbnail": "microsoft"
 		},
 		{
 			"link": "https://arc.dev/?utm_source=influencer&utm_medium=livestream&utm_campaign=paid2022&utm_term=202206&utm_content=midudev",
-			"thumbnail": ""
+			"thumbnail": "arc.dev"
 		},
-		{ "link": "https://www.youtube.com/watch?v=rb5tr_nquew", "thumbnail": "" },
-		{ "link": "https://www.izertis.com/es/talento", "thumbnail": "" },
-		{ "link": "https://www.bbc.co.uk/learningenglish/", "thumbnail": "" },
+		{ "link": "https://www.youtube.com/watch?v=rb5tr_nquew", "thumbnail": "rb5tr_nquew" },
+		{ "link": "https://www.izertis.com/es/talento", "thumbnail": "izertis" },
+		{ "link": "https://www.bbc.co.uk/learningenglish/", "thumbnail": "learningenglish" },
 		{
 			"link": "https://www.youtube.com/watch?v=wtpukohgfje&list=plv8x_i1fqbw0kn_fbizta3ws_vzaqddx7",
-			"thumbnail": ""
+			"thumbnail": "wtpukohgfje"
 		},
-		{ "link": "https://cabify.careers/es/", "thumbnail": "" },
+		{ "link": "https://cabify.careers/es/", "thumbnail": "cabify" },
 		{
 			"link": "https://www.redbubble.com/es/i/camiseta/midufest-de-midu-dev/142737019.ij6l0.xyz",
-			"thumbnail": ""
+			"thumbnail": "redbubble"
 		},
 		{
 			"link": "https://leanmind.es/es/blog/codigo-sostenible-en-miduconf-2022/",
-			"thumbnail": ""
+			"thumbnail": "leanmind"
 		},
 		{
 			"link": "https://learn.microsoft.com/es-es/training/challenges?id=150aae80-e46b-4a07-894a-5247fcdfcbad&wt.mc_id=cloudskillschallenge_150aae80-e46b-4a07-894a-5247fcdfcbad",
-			"thumbnail": ""
+			"thumbnail": "learn.microsoft"
 		},
-		{ "link": "https://codely.com/pro/midudev", "thumbnail": "" },
+		{ "link": "https://codely.com/pro/midudev", "thumbnail": "codely" },
 		{
 			"link": "https://events.hubilo.com/workshop-fest-spain/register?utm_source=community&utm_campaign=wksh_esp_codemotion_2023_autumn&utm_medium=referral&utm_content=midudev",
 			"thumbnail": ""
