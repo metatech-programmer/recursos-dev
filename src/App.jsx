@@ -31,7 +31,7 @@ function App() {
 					&#8593;
 				</a>
 			</main>
-			<footer className="fixed bottom-0 w-screen text-center bg-gradient-to-b from-transparent to-gray-950 text-white font-semibold pl-40 pr-4 lg:pr-0 opacity-5 hover:opacity-95 py-1 z-50  ">
+			<footer className="fixed bottom-0 w-screen text-center bg-gradient-to-b from-transparent to-gray-950 text-white text-opacity-20 hover:text-opacity-100 font-semibold lg:opacity-5 hover:opacity-95 py-1 z-50  ">
 				<a
 					className="hover:underline underline-offset-4"
 					href="https://github.com/metatech-programmer"
