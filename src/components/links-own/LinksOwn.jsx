@@ -30,7 +30,7 @@ const LinkOwn = ({ jsonData }) => {
 					}}
 				>
 					<span className="flex flex-col h-full hover:p-1">
-					<span className="text-3xl font-semibold  bg-zinc-950  md:hover:opacity-90 opacity-5  w-full h-full flex place-items-start hover:items-center justify-center p-5 active:text-4xl transition-all text-balance text-center rounded-t-lg">
+					<span className="text-3xl font-semibold  bg-zinc-950  md:hover:opacity-90 opacity-5  w-full h-full flex place-items-start lg:hover:items-center justify-center p-5 active:text-4xl transition-all text-balance text-center rounded-t-lg">
 							{/* biome-ignore lint/a11y/noSvgWithoutTitle: <explanation> */}
 							<svg
 								xmlns="http://www.w3.org/2000/svg"
