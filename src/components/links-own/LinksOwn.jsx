@@ -1,7 +1,6 @@
 import React, { lazy, Suspense } from "react";
 
 const Load = lazy(() => import("../Load/Load"));
-
 const LinkOwn = ({ jsonData }) => {
   const medidas = ["30", "40", "50", "60"];
 
@@ -13,7 +12,7 @@ const LinkOwn = ({ jsonData }) => {
   return (
     <>
       {enlacesOrdenados.map((enlace, index) => (
-        <Suspense fallback={load}>
+        <Suspense fallback={Load}>
           <a
             className="h-72 border break-words text-balance overflow-hidden hover:bg-sky-900 hover:shadow-sky-400 shadow-md hover:scale-105 z-0 hover:z-10 transition-all rounded-lg active:scale-110 active:shadow-sky-600 w-full md:w-1/3 lg:w-1/4 "
             // biome-ignore lint/suspicious/noArrayIndexKey: <explanation>
