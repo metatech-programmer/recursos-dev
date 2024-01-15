@@ -77,7 +77,7 @@ const LinkMidu = () => {
                 )
               </p>
             </span>
-            <Load />
+			
           </a>
         </Suspense>
       ))}
