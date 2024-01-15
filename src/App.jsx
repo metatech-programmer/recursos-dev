@@ -19,8 +19,8 @@ function App() {
 					className="  p-8 sm:p-12 md:p-32 text-slate-100 flex flex-wrap justify-center items-center gap-3 overflow-y-scroll w-full h-full  y-10"
 					style={{ backgroundImage: `url('/icon.svg')` }}
 				>
-					<LinkMidu />
 					<LinkOwn jsonData={links} />
+					<LinkMidu />
 				</div>
 
 				<a
