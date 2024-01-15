@@ -22,8 +22,8 @@ const LinkMidu = () => {
 
   return (
     <>
-      {jsonData.links.map((enlace, index) => (
-        <Suspense fallback={<div>Cargando...</div>}>
+      <Suspense fallback={<div>Cargando...</div>}>
+        {jsonData.links.map((enlace, index) => (
           <a
             className="h-60 md:h-72  border break-words text-balance overflow-hidden hover:bg-sky-900 hover:shadow-sky-400 shadow-lg hover:scale-105 z-0 hover:z-10 transition-all rounded-lg active:scale-110 active:shadow-sky-600 w-full md:w-1/3 lg:w-1/4"
             // biome-ignore lint/suspicious/noArrayIndexKey: <explanation>
@@ -77,8 +77,8 @@ const LinkMidu = () => {
               </p>
             </span>
           </a>
-        </Suspense>
-      ))}
+        ))}
+      </Suspense>
     </>
   );
 };
