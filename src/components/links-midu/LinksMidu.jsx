@@ -12,7 +12,6 @@ const LinkMidu = () => {
           "https://midu-links.vercel.app/api/links"
         );
         setJsonData(response.data);
-        console.log(response);
       } catch (error) {
         console.error("Error al obtener datos:", error);
       }
