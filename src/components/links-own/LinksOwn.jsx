@@ -51,7 +51,7 @@ const LinkOwn = ({ jsonData }) => {
               </span>
 
               <p className="text-xl font-semibold  bg-zinc-950  w-full h-1/4  text-center py-2  transition-all text-balance rounded-b-lg ">
-                {new URL(enlace).hostname} (web
+                {new URL(enlace).hostname.replace("www.", "")} (web
                 {/* biome-ignore lint/a11y/noSvgWithoutTitle: <explanation> */}
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
