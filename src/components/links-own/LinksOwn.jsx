@@ -26,7 +26,7 @@ const LinkOwn = ({ jsonData }) => {
               ).hostname.replace(
                 "https://",
                 ""
-              )}&background=random&color=fff&size=128`})`,
+              ).replace("www.", "")}&background=random&color=fff&size=128`})`,
               backgroundSize: "cover",
               backgroundPosition: "left",
             }}
