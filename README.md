@@ -19,8 +19,8 @@ Para instalar y ejecutar el proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/metatech-programmer/recursos-midu.git
-   cd recursos-midu
+   git clone https://github.com/metatech-programmer/recursos-dev.git
+   cd recursos-dev
    ```
 
 2. Instala las dependencias:
